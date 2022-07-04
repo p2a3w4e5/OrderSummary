@@ -1,0 +1,13 @@
+C:\Users\P2A3W4E5\Documents\Visual Studio 2019\Projects\OrderSummary\OrderSummary\bin\Debug\OrderSummary.exe.config
+C:\Users\P2A3W4E5\Documents\Visual Studio 2019\Projects\OrderSummary\OrderSummary\bin\Debug\OrderSummary.exe
+C:\Users\P2A3W4E5\Documents\Visual Studio 2019\Projects\OrderSummary\OrderSummary\bin\Debug\OrderSummary.pdb
+C:\Users\P2A3W4E5\Documents\Visual Studio 2019\Projects\OrderSummary\OrderSummary\bin\Debug\OrderSummary.xml
+C:\Users\P2A3W4E5\Documents\Visual Studio 2019\Projects\OrderSummary\OrderSummary\obj\Debug\OrderSummary.vbproj.AssemblyReference.cache
+C:\Users\P2A3W4E5\Documents\Visual Studio 2019\Projects\OrderSummary\OrderSummary\obj\Debug\OrderSummary.frmMain.resources
+C:\Users\P2A3W4E5\Documents\Visual Studio 2019\Projects\OrderSummary\OrderSummary\obj\Debug\OrderSummary.Resources.resources
+C:\Users\P2A3W4E5\Documents\Visual Studio 2019\Projects\OrderSummary\OrderSummary\obj\Debug\OrderSummary.vbproj.GenerateResource.cache
+C:\Users\P2A3W4E5\Documents\Visual Studio 2019\Projects\OrderSummary\OrderSummary\obj\Debug\OrderSummary.vbproj.CoreCompileInputs.cache
+C:\Users\P2A3W4E5\Documents\Visual Studio 2019\Projects\OrderSummary\OrderSummary\obj\Debug\OrderSummary.exe
+C:\Users\P2A3W4E5\Documents\Visual Studio 2019\Projects\OrderSummary\OrderSummary\obj\Debug\OrderSummary.xml
+C:\Users\P2A3W4E5\Documents\Visual Studio 2019\Projects\OrderSummary\OrderSummary\obj\Debug\OrderSummary.pdb
+C:\Users\P2A3W4E5\Documents\Visual Studio 2019\Projects\OrderSummary\OrderSummary\obj\Debug\OrderSummary.vbproj.ResolveComReference.cache
